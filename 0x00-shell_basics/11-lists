@@ -4,3 +4,5 @@ cd ..
 ls -al
 cd -
 ls -al /boot
+#!/bin/bash
+ls -al \n cd ..\n ls -al\n cd -\n ls -al /boot
